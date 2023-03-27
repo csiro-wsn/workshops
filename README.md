@@ -1,2 +1,3 @@
 # workshops
-Jupyter/Python notebooks used for workshops
+
+Jupyter/Python notebook files used in workshops
